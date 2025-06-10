@@ -1,0 +1,25 @@
+environment = 
+[
+
+   // Jenkins job related variables
+   "JOB_BU_NAME": "",
+   "JOB_BU_ACRONYM": "", 
+   "JOB_DESCRIPTION": "",
+
+   // Jenkins pipeline related variables
+   "PIPELINE_BUILD_DISPLAY_NAME": "",
+
+   // Jenkins related variables
+   "JENKINS_PROJECT_PATH" : "",
+
+   // Shell related variables
+   "BASTION_IP": ""
+   "NFS_IP": "",
+
+   // AWS S3 related variables
+   "SQL_DUMP_S3_BUCKET": "",
+
+   // UI
+   "THEME_COLOUR": "#1E52C2",
+
+]
