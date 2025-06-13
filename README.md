@@ -94,6 +94,7 @@ Take a quick a this diagram:
 ## Jenkins Plugins and Languages
 
 <br />
+
 ### Jenkins DSL Under The Hood
 
 This project is based on [Jenkins DSL plugin](https://plugins.jenkins.io/job-dsl/)
@@ -103,7 +104,9 @@ Therefore, you'll need to set up a seed job, or a series of seed jobs, to create
 I'll show you exactly how to do it later on this documentation.
 
 <br />
+
 ### Groovy
 
 <br />
+
 ## Definition Job
